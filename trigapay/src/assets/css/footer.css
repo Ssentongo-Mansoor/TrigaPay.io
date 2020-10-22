@@ -1,0 +1,11 @@
+.footer{
+	background-color: #343a40;
+	color: #fff;
+	padding: 30px;
+}
+.col_one h2{
+	margin-top: 100px;
+}
+.col_two h3{
+	text-decoration: underline;
+}
